@@ -2,7 +2,7 @@ import java.io.InputStream;
 import java.net.URL;
 import java.util.List;
 
-public class Comeco {
+public class Executora {
 
 	public static void main(String[] args) throws Exception {
 
